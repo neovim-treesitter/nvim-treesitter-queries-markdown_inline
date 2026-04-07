@@ -1,0 +1,8 @@
+{
+  "location": "tree-sitter-markdown-inline",
+  "lang": "markdown_inline",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-markdown",
+  "semver": false,
+  "min_version": null,
+  "max_version": null
+}
