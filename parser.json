@@ -1,7 +1,7 @@
 {
-  "parser_version": "f969cd3ae3f9fbd4e43205431d0ae286014c05b5",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-markdown",
   "semver": false,
+  "parser_version": "f969cd3ae3f9fbd4e43205431d0ae286014c05b5",
+  "location": "tree-sitter-markdown-inline",
   "lang": "markdown_inline",
-  "location": "tree-sitter-markdown-inline"
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-markdown"
 }
